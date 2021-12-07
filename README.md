@@ -1,4 +1,4 @@
-# htp
+# htp v1.1
 A simple Http/Https proxy server scanner:
 
 This tool was written in 2020 for testing proxy-servers speed.
