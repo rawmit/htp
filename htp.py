@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 from os import makedirs, listdir,path
 import argparse
 from re import search
